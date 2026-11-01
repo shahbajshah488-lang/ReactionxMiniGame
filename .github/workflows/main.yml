@@ -1,1 +1,21 @@
-
+<!doctype html>
+<html lang="en" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+    <title>REACTION X – Human Reflex Challenge</title>
+    <meta name="description" content="Premium reaction speed test game measuring human reflexes in milliseconds with multiple game modes, leaderboard, audio feedback, and score cards." />
+    <meta property="og:title" content="REACTION X – Human Reflex Challenge" />
+    <meta property="og:description" content="Premium reaction speed test game measuring human reflexes in milliseconds with multiple game modes, leaderboard, audio feedback, and score cards." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="google-adsense-account" content="ca-pub-5941744393018417" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700;800&family=Outfit:wght@400;500;600;700;800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  </head>
+  <body class="bg-black text-white antialiased select-none overflow-x-hidden touch-manipulation">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
